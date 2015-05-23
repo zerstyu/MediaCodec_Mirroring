@@ -37,3 +37,6 @@ However :
 
 # Reference
 * Encoder : http://bigflake.com/mediacodec/
+ 
+# Image
+![alt tag](https://raw.github.com/zerstyu/MediaCodec_Mirroring/mediacodec.png)
