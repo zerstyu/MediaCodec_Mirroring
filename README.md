@@ -1,4 +1,4 @@
-# MediaCodec_Mirroring
+# MediaCodec Mirroring
 This is : 
 * Mirroring using MediaCodec.
 * It operates in the background. So, it does not stop to interrupt.
