@@ -39,4 +39,4 @@ However :
 * Encoder : http://bigflake.com/mediacodec/
  
 # Image
-![alt tag](https://raw.github.com/zerstyu/MediaCodec_Mirroring/mediacodec.png)
+![alt tag](https://github.com/zerstyu/MediaCodec_Mirroring/blob/master/mediacodec.PNG)
