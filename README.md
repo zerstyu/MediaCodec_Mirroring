@@ -1,6 +1,9 @@
 # MediaCodec_Mirroring
 This is : 
 * Mirroring using MediaCodec.
+* It operates in the background. So, it does not stop to interrupt.
+
+※ interrupt ? call, message, home button and so on.
 
 Server
 * 1. get Bitmap using getDrawingCache(). 
