@@ -16,7 +16,7 @@ Client
 * 1. Receive data from Server
 * 2. Received data to Byte[]
 * 3. Byte[] into Decoder
-* 4. Decoder to Surface
+* 4. Decoded data into Surface
 * 5. Rendering with the Surface
 
 However :
