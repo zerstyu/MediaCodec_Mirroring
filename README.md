@@ -8,14 +8,14 @@ This is :
 Server
 * 1. get Bitmap using getDrawingCache(). 
 * 2. Bitmap to Byte[]
-* 3. Byte[] to Encoder
+* 3. Byte[] into Encoder
 * 4. get Byte[] (encoded data) from Encoder
 * 5. Transfer Byte[] to Client
 
 Client
 * 1. Receive data from Server
 * 2. Received data to Byte[]
-* 3. Byte[] to Decoder
+* 3. Byte[] into Decoder
 * 4. Decoder to Surface
 * 5. Rendering with the Surface
 
